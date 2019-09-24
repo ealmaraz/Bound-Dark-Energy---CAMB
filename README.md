@@ -37,7 +37,7 @@ make
 ```
 
 ### Change log ###
-Modifications and comments are indicated by 'erickdd.mm.yy'. See README_BDE.txt for more details
+Modifications and comments are indicated by `erickdd.mm.yy`. See README_BDE.txt for more details
 
 ### Acknowledgments ###
 This code is built upon the CAMB public code (November 16 release; https://camb.info/) and `equations_quint.f90` template for quintessence. 
