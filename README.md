@@ -19,7 +19,9 @@ If you use this code, I would be very grateful if you cite these two papers.
 
 ### Installation ###
 1. Go to `$CAMB`
-2. Download `odepack.f`, `odepack_sub1.f` & `odepack_sub2.f` from https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html and place these files in `$CAMB/odepack`
+2. Download `odepack.f`, `odepack_sub1.f` & `odepack_sub2.f` from:<br>
+https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html <br>
+and place these files in `$CAMB/odepack`
 3. Compile ODEPACK:
 ```
    cd $CAMB/odepack
@@ -46,7 +48,7 @@ Modifications and comments are indicated by `erickdd.mm.yy`. Main modifications 
 See README_BDE.txt for more details
 
 ### Acknowledgments ###
-This code is built upon the CAMB public code (November 16 release; https://camb.info/) and `equations_quint.f90` template for quintessence. The ODEPACK Fortran library is also used: https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html
+This code is built upon the CAMB public code (November 2016 release; https://camb.info/) and `equations_quint.f90` template for quintessence. The ODEPACK Fortran library is also used:<br> https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html
 
 ### Contact ###
 For comments, suggestions, etc, feel free to contact me: erickalmaraz@gmail.com
