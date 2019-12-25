@@ -46,7 +46,7 @@ Modifications and comments are indicated by `erickdd.mm.yy`. Main modifications 
 See README_BDE.txt for more details
 
 ### Acknowledgments ###
-This code is built upon the CAMB public code (November 16 release; https://camb.info/) and `equations_quint.f90` template for quintessence. 
+This code is built upon the CAMB public code (November 16 release; https://camb.info/) and `equations_quint.f90` template for quintessence. The ODEPACK Fortran library is also used: https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html
 
 ### Contact ###
 For comments, suggestions, etc, feel free to contact me: erickalmaraz@gmail.com
